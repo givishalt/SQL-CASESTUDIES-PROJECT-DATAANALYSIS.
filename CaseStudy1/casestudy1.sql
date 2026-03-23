@@ -1,6 +1,9 @@
+--create  database casestudy1
 create database casestudy1;
 use casestudy1;
 
+
+--explore all tables in database 
 select * from product;
 select * from location;
 select  * from fact;
@@ -88,7 +91,6 @@ from location
 order by state
 
 ---12) Display the average budget of the Product where the average budget
---margin should be greater than 100.-------(doubt)
 
 select *  from fact  
 
