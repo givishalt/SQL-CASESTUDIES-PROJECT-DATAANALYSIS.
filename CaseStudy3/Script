@@ -196,66 +196,6 @@ END catch
 select * from continent
 
 
---13. Create a TRY...CATCH block to insert a value in the Continent table.
-
-
----14. Create a trigger to prevent deleting a table in a database.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
